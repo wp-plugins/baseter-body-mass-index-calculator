@@ -3,8 +3,8 @@ Contributors: Lucian Apostol
 Donate link: http://www.baseter.com
 Tags: bmi calculator, bmi, body mass index, calculate bmi, bmi index
 Requires at least: 2.0.2
-Tested up to: 2.9
-Stable tag: 0.1
+Tested up to: 4.0.1
+Stable tag: 0.2
 
 Provide your visitors the ability to calculate their body mass index to determine wheter their bmi in normal, they are underweight or they are overweight
 
@@ -36,6 +36,9 @@ The current version of plugin is designed to be placed on the sidebar, in the fu
 The blog functionality will not be affected in any way
 
 == Changelog ==
+
+= 0.2 =
+* Checked and tested for wordpress 4.0
 
 = 0.1 =
 * This is the first version of the plugin
