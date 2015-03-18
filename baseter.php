@@ -4,7 +4,7 @@ Plugin Name: Baseter body mass index calculator
 Plugin URI: http://www.baseter.com
 Description: Calculate your body mass index.
 Author: Lucian Apostol
-Version: 0.2
+Version: 0.3
 Author URI: http://www.baseter.com
 */
 
